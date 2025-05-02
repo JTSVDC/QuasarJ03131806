@@ -11,3 +11,16 @@ Atuo como **Consultor Cloud Computing / Data Center Virtual** na **Uppertec**, o
 - 📚 Uso este repositório para compartilhar materiais, projetos e experiências com a comunidade.
 
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/mizaelsouto) |
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=QuasarJ03131806&show_icons=true&theme=tokyonight&hide_title=false&card_width=450" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuasarJ03131806&layout=compact&theme=tokyonight&card_width=450" width="100%"/>
+    </td>
+  </tr>
+</table>
