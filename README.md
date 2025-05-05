@@ -22,7 +22,7 @@ Sou  estudante do ensino médio ,cursando desenvolvimento de sistemas.
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d1285ea5-983e-405e-a17e-53673b2a3041" alt="Imagem centralizada" />
+ 
 </p>
 
 ---
